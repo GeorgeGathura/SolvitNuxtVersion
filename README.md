@@ -1,7 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Sample Project : Solvit (NUXT Version)
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
+This is a sample website  implementation using NUXT js. Its purpose is showcasing my skills within my portfolio. A wordpress version is also available.
 ## Setup
 
 Make sure to install the dependencies:
